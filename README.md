@@ -46,8 +46,8 @@ This project performs a cross-tissue Mendelian Randomization (MR) analysis to ev
 
 All summary statistics used are publicly available:
 
-- **SSc GWAS**: GWAS Catalog [GCST90253087](https://www.ebi.ac.uk/gwas/studies/GCST90253087)
-- **Body fat traits (BMI, WHR, etc.)**: GIANT consortium, [https://portals.broadinstitute.org/collaboration/giant](https://portals.broadinstitute.org/collaboration/giant)
+- **SSc GWAS**: GWAS Catalog [GCST009131]([https://www.ebi.ac.uk/gwas/studies/GCST009131]https://www.ebi.ac.uk/gwas/studies/GCST009131)
+- **Body fat traits (BMI, WHR, etc.)**: GIANT consortium
 
 ---
 
