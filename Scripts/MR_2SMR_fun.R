@@ -8,7 +8,7 @@
 # Output:
 #   MR results, PRESSO results, plots and summary tables
 
-cat(paste("Start Mendelian Randomization analysis at", format(Sys.time(), "%c"), "\n"))  # [ADDED]
+cat(paste("Start Mendelian Randomization analysis at", format(Sys.time(), "%c"), "\n"))  
 options(scipen = 999)
 
 # Load libraries
