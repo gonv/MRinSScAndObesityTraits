@@ -94,11 +94,9 @@ If your input GWAS files need formatting, use the scripts in `utilities/`:
 
 ## 👤 Author
 
-**Gonzalo Villanueva-Martin**  
-Boston Children’s Hospital — Harvard Medical School  
-Broad Institute of MIT and Harvard  
-_Email and contact info to be added_
-
+**Gonzalo Villanueva-Martin PhD**  
+Instituto de Parasitologia y Biomedicina, Lopez-Neyra
+Universidad de Granada
 ---
 
 ## 📄 License
