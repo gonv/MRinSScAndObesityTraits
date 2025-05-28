@@ -74,9 +74,7 @@ This will:
 
 ## 👤 Author
 
-**Gonzalo Villanueva-Martin**  
-Boston Children’s Hospital — Harvard Medical School  
-Broad Institute of MIT and Harvard  
-_Email to be added_
-
+**Gonzalo Villanueva-Martin, PhD**  
+Instituto de Parasitologia y Biomedicina, Lopez-Neyra
+Universidad de Granada
 ---
